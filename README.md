@@ -2,8 +2,11 @@
 ## GIF of page
 ![GIF of page](Assets/Portfolio.gif "GIF of page")
 
+[Here is a link to the deployed page](https://amber-robeck.github.io/portfolioUpdate/ "My Portfolio in action")
 
 
+## Description
+_This is my updated portfolio page. The base page was created a few weeks back and you can find that_ [here](https://amber-robeck.github.io/unitTwoPortfolio/ "Base Portfolio"). _This readMe has been created with the old readMe at the bottom for comparison. I added pictures of projects I have worked on and linked the deployed page as well as the repositories to those pages. I also added links to linkedIn and to my updated resume. Changed the Lorem text to a short about me section. Only minor css adjustments were made to the framework, font-sizes in the media-queries, and padding on some objects. I plan to further update this portfolio once my knowledge base grows futher, maybe even start a new one using bootstrap or bulma._
 
 # unitTwoPortfolio
 
