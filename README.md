@@ -1,3 +1,10 @@
+# Portfolio
+## GIF of page
+![GIF of page](Assets/Portfolio.gif "GIF of page")
+
+
+
+
 # unitTwoPortfolio
 
 ![picture alt](https://github.com/Amber-Robeck/unitTwoPortfolio/blob/main/Assets/amber-robeck.github.io_unitTwoPortfolio_.png?raw=true "Title is optional")
