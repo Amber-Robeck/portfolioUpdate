@@ -143,14 +143,32 @@ li > a {
     padding: 20px 0;
     font-size: 30px;
     box-shadow: rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
-    background-image: url("./coming-soon.png"); 
+    /* background-image: url("./coming-soon.png");  */
     background-size: cover;
     background-position: center;
 }
 
+.item1{
+    background-image: url("./weather-dashboard.png");
+    /* background-size: cover;
+    background-position: center; */
+}
+.item2{
+    background-image: url("./chord-base.png"); 
+}
+.item3{
+    background-image: url("./scheduler.png");
+}
+.item4{
+    background-image: url("./code-quiz.png");
+}
+.item5{
+    background-image: url("./password-generator.png");
+}
+
 .grid-container > div > a {
     margin: 10px;
-    color: white;
+    color: black;
     
 }
 
