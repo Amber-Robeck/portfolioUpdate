@@ -67,9 +67,10 @@ li > a {
     background-color: gray;
 }   
 .aboutMe > p {
-    width: 60%;
+    width: 65%;
     height: 20vh;
     padding: 20px;
+    font-size: .65em;
 }
 .center {
     text-align: center;
@@ -213,7 +214,7 @@ li > a {
 /* Nav bar media query */
 
 /* grid display media query */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1300px) {
     .grid-container {
         grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
         height: 90vh;}
@@ -224,6 +225,7 @@ li > a {
 
         .aboutMe > p {
             width: 100%;
+            font-size: 0.55em;
         }
         .r-ease {
             margin-top: 250px;
@@ -231,12 +233,12 @@ li > a {
     }
 @media screen and (max-width:600px) {
     .main-nav {
-        font-size: 0.5em;
+        font-size: 0.55em;
         padding: 0;
      }
 
      .aboutMe > p {
-        font-size: .695em;
+        font-size: 0.445em;
      }
     .r-ease {
         margin-top: 250px;
@@ -245,7 +247,7 @@ li > a {
 
 @media screen and (max-width:500px) {
     .main-nav {
-        font-size: 0.45em;
+        font-size: 0.445em;
         padding: 0;
     }
     .r-ease {
